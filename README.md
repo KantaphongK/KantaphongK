@@ -1,3 +1,5 @@
+### This readme still WIP
+
 ### Hi there 👋
 
 ### Stats
@@ -9,4 +11,3 @@
 - 👯 I’m looking to collaborate on Junior Full Stack Developer 
 - ⚡ Fun fact: I like green color.
 
-### This readme still WIP
