@@ -1,4 +1,4 @@
-### This readme still WIP
+### This readme 
 
 ### Hi there 👋
 
@@ -11,3 +11,6 @@
 - 👯 I’m looking to collaborate on Junior Full Stack Developer 
 - ⚡ Fun fact: I like green color.
 
+If you have anything about my git hub repositories you can contact me via
+-k.kantaphong@kkumail.com OR
+-Kantaphong.Keng@gmail.com
